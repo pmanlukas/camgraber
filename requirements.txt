@@ -1,0 +1,5 @@
+azure-iothub-device-client==1.1.28.0
+azure-iothub-service-client==1.1.0.20
+certifi==2017.11.5
+selenium==3.8.1
+wincertstore==0.2
